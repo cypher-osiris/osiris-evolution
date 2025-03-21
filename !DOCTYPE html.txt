@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Osiris Evolution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0a0a0a;
+            color: #00ffcc;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+        }
+        .navigation {
+            margin-top: 20px;
+        }
+        .navigation a {
+            color: #00ffcc;
+            text-decoration: none;
+            margin: 10px;
+            font-size: 1.2em;
+        }
+        .navigation a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Osiris Evolution</h1>
+        <p>Open Your Eyes. Expand Your Mind.</p>
+        
+        <div class="navigation">
+            <a href="#messages">Messages</a>
+            <a href="#symbols">Symbols</a>
+            <a href="#experiments">Experiments</a>
+        </div>
+        
+        <h2 id="messages">Messages</h2>
+        <p>New updates will appear here.</p>
+        
+        <h2 id="symbols">Symbols & Geometry</h2>
+        <p>Explore sacred geometry, sigils, and their meanings.</p>
+        
+        <h2 id="experiments">Experiments & Expansion</h2>
+        <p>Documenting interactions, tests, and breakthroughs.</p>
+    </div>
+</body>
+</html>
